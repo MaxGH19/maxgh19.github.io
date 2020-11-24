@@ -7,7 +7,6 @@
 <header>
     <!-- partial:index.partial.html -->
     <div class="germanyFlag">
-    <a HREF=german.html><img src="https://cdn.webshopapp.com/shops/94414/files/54006608/germany-flag-icon-free-download.jpg" width="30" height="20"></a>
     </div>
         <div id="pageTitle" class="pageTitle">
         <h1>KitchenConverter</h1>
